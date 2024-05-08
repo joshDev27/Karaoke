@@ -1,6 +1,6 @@
-flask==2.1.0
+flask
 pandas
-whisper==0.1.0
+whisper
 spleeter==2.4.0
 librosa
 soundfile
